@@ -1,2 +1,4 @@
 flask
 python-binance
+requests
+nltk
